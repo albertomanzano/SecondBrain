@@ -6,4 +6,5 @@ tags:
 ---
  
 Synchronize: npx quartz sync
+Publish: npx quartz build --serve
 
