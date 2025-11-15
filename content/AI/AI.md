@@ -1,8 +1,8 @@
 ---
-title: <% tp.file.path() %>
+title: AI
 draft: false
 tags:
-  - 
+  -
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
