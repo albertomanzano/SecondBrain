@@ -1,6 +1,6 @@
 ---
 title: Stochastic Resonance
-draft: false
+draft: true
 tags:
   -
 ---

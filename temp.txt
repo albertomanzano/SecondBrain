@@ -1,12 +1,10 @@
-@use "./base.scss";
-
 // Custom SCSS to use the system font stack, similar to GitHub Docs
 
 // This overrides the main CSS variables used by Quartz
 :root {
   // Body font: Uses the native system UI font, falling back to common sans-serifs
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-
+  
   // Header font: You might want to keep headers consistent with the body
   --font-header: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -16,3 +14,6 @@
   // Code font: Uses GitHub's preferred monospace stack
   --font-code: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, "Liberation Mono", monospace;
 }
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",

@@ -5,6 +5,6 @@ tags:
   -
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+There are no entries yet, but there will be soon  :)
 
 ## References

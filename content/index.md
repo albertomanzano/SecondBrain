@@ -7,16 +7,11 @@ This space is my “second brain”: a public version of the notes, ideas, and e
 
 Here you’ll find:
 
-- **About Me** — who I am, what I do, and the projects I care about.  
-- **Thoughts** — short reflections, half-formed ideas, and anything I’m currently exploring.  
-- **Distilled Notes** — concepts I’ve explored, refined into something clearer and shareable.
+- 👉 [About Me](about)  — who I am, what I do, and the projects I care about.
+- 🧠 [[AI]] — different AI topics.
+- 🌱 [[Ecological Learning]] — some ideas about the methodology that I try to use for teaching.
 
 This site grows as I do.
 
----
 
-## Start Here
 
-- 👉 [About Me](about)  
-- 🧠 [[AI]]
-- [[Ecological Learning]]
