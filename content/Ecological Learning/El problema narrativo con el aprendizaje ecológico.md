@@ -202,6 +202,8 @@ El problema no es la técnica, ni los fundamentos ni los niveles. El problema es
 
 ## Referencias
 
+[[Una breve introducción al aprendizaje ecológico]]
+
 [Gray, Rob - How we learn to move](https://www.amazon.es/How-We-Learn-Move-Revolution-ebook/dp/B09K1T1TG4)
 [Gray, Rob - # Learning To Be an “Ecological” Coach](https://www.amazon.es/Learning-Ecological-Coach-Developing-Adaptable/dp/B0DJKN9T1M)
 

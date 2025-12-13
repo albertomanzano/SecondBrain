@@ -27,4 +27,6 @@ When we talk about the learner we are interested in the ability of the learner t
 
 This is the how we explore the space.
 
+
+La minima red neuronal que llegue al resultado
 ## References
