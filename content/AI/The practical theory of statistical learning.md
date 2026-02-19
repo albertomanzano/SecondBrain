@@ -5,7 +5,15 @@ tags:
   -
 ---
 
-Me tomaré algunas licencias, el objetivo no es ser rigurosos sino ganar intuición. No espero que el aprendizaje sea lineal. Espero que al principio haya cosas que se entiendan y que sean falsas y a medida que sepamos más las iremos corrigiendo. Para más información de porqué creo que esto es así [[Ecological Learning]]
+La inteligencia artificial está siendo cada vez más popular (y también más importante). Últimamente, cada vez que me tomo una cerveza con amigos acaba saliendo el tema. Por otro lado, también veo cada vez más cursos. Y en toda esta creciente cantidad de información que sale quiero aportar mi granito de arena. ¿Cómo? Hablando un poco de la parte más teórica de la IA (que es la que no se suele discutir). Otra vez me van a hablar del backpropagation estarás pensando. Pues no, te voy a hablar de lo que viene ANTES. 
+
+Si cuando he dicho backpropagation no sabes lo que es, no te preocupes, pero esta entrada no es para ti.
+
+## El experimento base
+
+Como pretendo que la teoría que vamos a ver tenga un caracter práctica, déjame que partamos de un experimento que puedes implementar en tu ordenador.
+
+Vamos a intentar aprender una función seno. Para generar el dataset vamos a utilizar dos distribuciones de probabilidad. La primera va a ser una distribución uniforme $p_U$ en el intervalo $[0,1]$. La segunda va a ser una distribución normal $p_N$ con media cero y desviación estándar $0.1$. La distribución uniforme la vamos a utilizar para generar los datos en el eje $x$ y la distribución normal
 
 The base experiment. We are going to take a learner, some sets of data,a loss function and an optimization algorithm. To be a little bit more specific
 

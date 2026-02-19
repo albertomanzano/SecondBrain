@@ -4,7 +4,24 @@ draft: true
 tags:
   -
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+## Intro:
+Origin of the manuscript.
+- Information scattered in different sources
+- Some sources not aligned with people from finance or practitioners
+
+Purpose
+- Get those results to the financial audience
+- Open new lines of research
+	- Distributions
+	- LLMs
+	- Video
+
+
+## What is differential machine learning
+
+## Why it works
+
+## Why it matters
+
 
 ## References
