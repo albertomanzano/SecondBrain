@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.path() %>
+title: El Ritual
 draft: false
 tags:
   -
